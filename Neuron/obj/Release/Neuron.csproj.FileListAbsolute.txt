@@ -1,0 +1,12 @@
+F:\1.2\NeuralNetCounstructor\Neuron\bin\Release\Neuron.dll.config
+F:\1.2\NeuralNetCounstructor\Neuron\bin\Release\Neuron.dll
+F:\1.2\NeuralNetCounstructor\Neuron\bin\Release\Neuron.pdb
+F:\1.2\NeuralNetCounstructor\Neuron\obj\Release\Neuron.csprojResolveAssemblyReference.cache
+F:\1.2\NeuralNetCounstructor\Neuron\obj\Release\Neuron.dll
+F:\1.2\NeuralNetCounstructor\Neuron\obj\Release\Neuron.pdb
+F:\Программа\NeuralNetCounstructor\Neuron\bin\Release\Neuron.dll.config
+F:\Программа\NeuralNetCounstructor\Neuron\bin\Release\Neuron.dll
+F:\Программа\NeuralNetCounstructor\Neuron\bin\Release\Neuron.pdb
+F:\Программа\NeuralNetCounstructor\Neuron\obj\Release\Neuron.csprojResolveAssemblyReference.cache
+F:\Программа\NeuralNetCounstructor\Neuron\obj\Release\Neuron.dll
+F:\Программа\NeuralNetCounstructor\Neuron\obj\Release\Neuron.pdb

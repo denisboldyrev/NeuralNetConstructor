@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weights>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Layer1">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="W11" type="xs:string" minOccurs="0" />
+                  <xs:element name="W12" type="xs:string" minOccurs="0" />
+                  <xs:element name="W13" type="xs:string" minOccurs="0" />
+                  <xs:element name="W14" type="xs:string" minOccurs="0" />
+                  <xs:element name="W15" type="xs:string" minOccurs="0" />
+                  <xs:element name="W16" type="xs:string" minOccurs="0" />
+                  <xs:element name="W17" type="xs:string" minOccurs="0" />
+                  <xs:element name="W18" type="xs:string" minOccurs="0" />
+                  <xs:element name="W19" type="xs:string" minOccurs="0" />
+                  <xs:element name="W110" type="xs:string" minOccurs="0" />
+                  <xs:element name="W111" type="xs:string" minOccurs="0" />
+                  <xs:element name="W112" type="xs:string" minOccurs="0" />
+                  <xs:element name="W113" type="xs:string" minOccurs="0" />
+                  <xs:element name="W114" type="xs:string" minOccurs="0" />
+                  <xs:element name="W115" type="xs:string" minOccurs="0" />
+                  <xs:element name="W116" type="xs:string" minOccurs="0" />
+                  <xs:element name="W117" type="xs:string" minOccurs="0" />
+                  <xs:element name="W118" type="xs:string" minOccurs="0" />
+                  <xs:element name="W119" type="xs:string" minOccurs="0" />
+                  <xs:element name="W120" type="xs:string" minOccurs="0" />
+                  <xs:element name="W121" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Layer2">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="W21" type="xs:string" minOccurs="0" />
+                  <xs:element name="W22" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Layer3">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="W31" type="xs:string" minOccurs="0" />
+                  <xs:element name="W32" type="xs:string" minOccurs="0" />
+                  <xs:element name="W33" type="xs:string" minOccurs="0" />
+                  <xs:element name="W34" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <NewDataSet>
+        <Layer1 diffgr:id="Layer11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <W11>1.0459940545248</W11>
+          <W12>-1.0068987764333</W12>
+          <W13>0.620216701068082</W13>
+          <W14>0.0645910607499738</W14>
+          <W15>-0.0537155914402657</W15>
+          <W16>-0.00165565850032236</W16>
+          <W17>0.184592569208578</W17>
+          <W18>-0.317803691126262</W18>
+          <W19>0.17025229325452</W19>
+          <W110>-0.166391548944937</W110>
+          <W111>-0.163278082435536</W111>
+          <W112>0.0977360810146585</W112>
+          <W113>-0.10529744869636</W113>
+          <W114>0.0616439614037565</W114>
+          <W115>-0.147084819663308</W115>
+          <W116>-0.00264152988591636</W116>
+          <W117>0.206403198341369</W117>
+          <W118>0.263536689524313</W118>
+          <W119>-0.266170233241343</W119>
+          <W120>0.171794258318109</W120>
+          <W121>-0.914384996857289</W121>
+        </Layer1>
+        <Layer1 diffgr:id="Layer12" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <W11>1.54589856342812</W11>
+          <W12>-0.69072874555844</W12>
+          <W13>0.261811131393732</W13>
+          <W14>-0.207183739976115</W14>
+          <W15>0.174168688574015</W15>
+          <W16>0.139296432241122</W16>
+          <W17>0.47033721043928</W17>
+          <W18>0.0571494463932242</W18>
+          <W19>0.547426895542167</W19>
+          <W110>-0.457758575363458</W110>
+          <W111>-0.0733926444780479</W111>
+          <W112>0.231364278378901</W112>
+          <W113>0.197904669401618</W113>
+          <W114>0.523920507768309</W114>
+          <W115>-0.42812232383747</W115>
+          <W116>0.132060461093468</W116>
+          <W117>0.160160548175587</W117>
+          <W118>-0.0381830043621152</W118>
+          <W119>-0.238742291194244</W119>
+          <W120>0.0827944471157166</W120>
+          <W121>-1.06381480186251</W121>
+        </Layer1>
+        <Layer2 diffgr:id="Layer21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <W21>0.51603965736794</W21>
+          <W22>0.635761586533553</W22>
+        </Layer2>
+        <Layer2 diffgr:id="Layer22" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <W21>0.616128361014354</W21>
+          <W22>0.671245597597633</W22>
+        </Layer2>
+        <Layer2 diffgr:id="Layer23" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <W21>0.446714340970895</W21>
+          <W22>0.451413510032177</W22>
+        </Layer2>
+        <Layer2 diffgr:id="Layer24" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <W21>0.57350639187742</W21>
+          <W22>0.686833419950696</W22>
+        </Layer2>
+        <Layer3 diffgr:id="Layer31" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <W31>0.502373241526324</W31>
+          <W32>0.577676330718705</W32>
+          <W33>0.397740003805805</W33>
+          <W34>0.554143326322723</W34>
+        </Layer3>
+      </NewDataSet>
+    </diffgr:diffgram>
+  </Weights>
+  <Biases>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="LayerBias1">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Bias11" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias12" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="LayerBias2">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Bias21" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias22" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias23" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias24" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="LayerBias3">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Bias31" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <NewDataSet>
+        <LayerBias1 diffgr:id="LayerBias11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Bias11>0.361089319828144</Bias11>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias12" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Bias12>0.728931707414174</Bias12>
+        </LayerBias1>
+        <LayerBias2 diffgr:id="LayerBias21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Bias21>-0.00978339491465512</Bias21>
+        </LayerBias2>
+        <LayerBias2 diffgr:id="LayerBias22" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Bias22>-0.0326212613297119</Bias22>
+        </LayerBias2>
+        <LayerBias2 diffgr:id="LayerBias23" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Bias23>-0.0191948436152291</Bias23>
+        </LayerBias2>
+        <LayerBias2 diffgr:id="LayerBias24" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Bias24>-0.0120667849913544</Bias24>
+        </LayerBias2>
+        <LayerBias3 diffgr:id="LayerBias31" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Bias31>-0.540914439496099</Bias31>
+        </LayerBias3>
+      </NewDataSet>
+    </diffgr:diffgram>
+  </Biases>
+  <NetType>Многослойный персептрон</NetType>
+  <NumLayers>3</NumLayers>
+  <NumIn>21</NumIn>
+  <NumNeurons>
+    <int>2</int>
+    <int>4</int>
+    <int>1</int>
+  </NumNeurons>
+  <ActFuncType>
+    <string>Гиперболический тангенс</string>
+    <string>Гиперболический тангенс</string>
+    <string>Гиперболический тангенс</string>
+  </ActFuncType>
+  <SigmoidA>
+    <double>0</double>
+    <double>0</double>
+    <double>0</double>
+  </SigmoidA>
+  <TanA>
+    <double>1</double>
+    <double>1</double>
+    <double>1</double>
+  </TanA>
+  <TanB>
+    <double>1</double>
+    <double>1</double>
+    <double>1</double>
+  </TanB>
+  <LeftA>
+    <double>0.1</double>
+    <double>0.1</double>
+    <double>0.1</double>
+  </LeftA>
+  <RightB>
+    <double>0.2</double>
+    <double>0.2</double>
+    <double>0.2</double>
+  </RightB>
+  <LearningRate>0.1</LearningRate>
+  <Epoch>50</Epoch>
+  <Accuracy>0.01</Accuracy>
+</AppSettings>

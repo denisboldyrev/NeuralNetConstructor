@@ -1,0 +1,85 @@
+D:\Projects\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+D:\Projects\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+D:\Projects\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+D:\Projects\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+D:\Projects\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+C:\Users\User32\Desktop\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+C:\Users\User32\Desktop\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+C:\Users\User32\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+G:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+G:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+G:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+G:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+G:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+G:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+E:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+E:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+E:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+E:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+E:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+E:\Университет\DIPLOM\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+F:\Новая папка\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+F:\Новая папка\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+F:\Новая папка\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+F:\Новая папка\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+F:\Новая папка\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+F:\Новая папка\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+D:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+D:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+D:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+D:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+D:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+D:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+F:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+F:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+F:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+F:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+F:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+F:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+E:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+E:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+E:\Новая папка\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+E:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+E:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+E:\Новая папка\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+F:\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+F:\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+F:\1.2\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+F:\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+F:\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+F:\1.2\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+D:\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+D:\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+D:\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+D:\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+D:\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+D:\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+F:\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+F:\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+F:\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+F:\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+F:\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+F:\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+D:\temp\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+D:\temp\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+D:\temp\Программа\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+D:\temp\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+D:\temp\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+D:\temp\Программа\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll.config
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.dll
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\bin\Debug\Neuron.pdb
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.dll
+C:\Users\Denis\Downloads\NeuralNetCounstructor\Neuron\obj\Debug\Neuron.pdb

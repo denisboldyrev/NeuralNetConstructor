@@ -1,0 +1,253 @@
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Form1.resources
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+D:\Projects\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Form1.resources
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Form2.resources
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+G:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+E:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+E:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+E:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+E:\Университет\DIPLOM\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Form2.resources
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+F:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Form2.resources
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+E:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Form2.resources
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+D:\Новая папка\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+D:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+F:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+E:\Новая папка\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+F:\1.2\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+F:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+D:\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+D:\temp\Программа\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+C:\Users\User32\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+C:\Users\Denis\Desktop\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe.config
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.exe
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\NeuralNetCounstructor.pdb
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.pdb
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\bin\Debug\Neuron.dll.config
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.ResolveComReference.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.AboutBox.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.FormHelp.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NeuralNetForm.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.NonLinearNeuronForm.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.ClassificationForm.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.LinearNeuronForm.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.MainForm.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.Properties.Resources.resources
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.GenerateResource.Cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.exe
+C:\Users\Denis\Downloads\NeuralNetCounstructor\NeuralNetCounstructor\obj\Debug\NeuralNetCounstructor.pdb

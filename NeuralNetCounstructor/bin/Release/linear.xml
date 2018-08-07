@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weights>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Neuron">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="W1" type="xs:string" minOccurs="0" />
+                  <xs:element name="W2" type="xs:string" minOccurs="0" />
+                  <xs:element name="W3" type="xs:string" minOccurs="0" />
+                  <xs:element name="W4" type="xs:string" minOccurs="0" />
+                  <xs:element name="W5" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <NewDataSet>
+        <Neuron diffgr:id="Neuron1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <W1>0.0235875158390162</W1>
+          <W2>0.463638584741723</W2>
+          <W3>0.107299640617142</W3>
+          <W4>-0.024270992668961</W4>
+          <W5>0.431869365805848</W5>
+        </Neuron>
+      </NewDataSet>
+    </diffgr:diffgram>
+  </Weights>
+  <NetType>Линейный нейрон</NetType>
+  <NumLayers>0</NumLayers>
+  <NumIn>5</NumIn>
+  <LearningRate>0.01</LearningRate>
+  <Epoch>3000</Epoch>
+  <Accuracy>0.01</Accuracy>
+</AppSettings>

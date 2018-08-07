@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weights>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Layer1">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="W11" type="xs:string" minOccurs="0" />
+                  <xs:element name="W12" type="xs:string" minOccurs="0" />
+                  <xs:element name="W13" type="xs:string" minOccurs="0" />
+                  <xs:element name="W14" type="xs:string" minOccurs="0" />
+                  <xs:element name="W15" type="xs:string" minOccurs="0" />
+                  <xs:element name="W16" type="xs:string" minOccurs="0" />
+                  <xs:element name="W17" type="xs:string" minOccurs="0" />
+                  <xs:element name="W18" type="xs:string" minOccurs="0" />
+                  <xs:element name="W19" type="xs:string" minOccurs="0" />
+                  <xs:element name="W110" type="xs:string" minOccurs="0" />
+                  <xs:element name="W111" type="xs:string" minOccurs="0" />
+                  <xs:element name="W112" type="xs:string" minOccurs="0" />
+                  <xs:element name="W113" type="xs:string" minOccurs="0" />
+                  <xs:element name="W114" type="xs:string" minOccurs="0" />
+                  <xs:element name="W115" type="xs:string" minOccurs="0" />
+                  <xs:element name="W116" type="xs:string" minOccurs="0" />
+                  <xs:element name="W117" type="xs:string" minOccurs="0" />
+                  <xs:element name="W118" type="xs:string" minOccurs="0" />
+                  <xs:element name="W119" type="xs:string" minOccurs="0" />
+                  <xs:element name="W120" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Layer2">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="W21" type="xs:string" minOccurs="0" />
+                  <xs:element name="W22" type="xs:string" minOccurs="0" />
+                  <xs:element name="W23" type="xs:string" minOccurs="0" />
+                  <xs:element name="W24" type="xs:string" minOccurs="0" />
+                  <xs:element name="W25" type="xs:string" minOccurs="0" />
+                  <xs:element name="W26" type="xs:string" minOccurs="0" />
+                  <xs:element name="W27" type="xs:string" minOccurs="0" />
+                  <xs:element name="W28" type="xs:string" minOccurs="0" />
+                  <xs:element name="W29" type="xs:string" minOccurs="0" />
+                  <xs:element name="W210" type="xs:string" minOccurs="0" />
+                  <xs:element name="W211" type="xs:string" minOccurs="0" />
+                  <xs:element name="W212" type="xs:string" minOccurs="0" />
+                  <xs:element name="W213" type="xs:string" minOccurs="0" />
+                  <xs:element name="W214" type="xs:string" minOccurs="0" />
+                  <xs:element name="W215" type="xs:string" minOccurs="0" />
+                  <xs:element name="W216" type="xs:string" minOccurs="0" />
+                  <xs:element name="W217" type="xs:string" minOccurs="0" />
+                  <xs:element name="W218" type="xs:string" minOccurs="0" />
+                  <xs:element name="W219" type="xs:string" minOccurs="0" />
+                  <xs:element name="W220" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <NewDataSet>
+        <Layer1 diffgr:id="Layer11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <W11>0,400365625013724</W11>
+          <W12>0,184812071041821</W12>
+          <W13>0,310256480255983</W13>
+          <W14>0,359686666033432</W14>
+          <W15>0,307266026853353</W15>
+          <W16>0,465055196095716</W16>
+          <W17>0,370047312329786</W17>
+          <W18>0,226252617417296</W18>
+          <W19>0,194859224338585</W19>
+          <W110>0,429300831281949</W110>
+          <W111>0,348333474456745</W111>
+          <W112>0,411406515865821</W112>
+          <W113>0,441670534803146</W113>
+          <W114>0,355781504597737</W114>
+          <W115>0,237134306517944</W115>
+          <W116>0,336024499578392</W116>
+          <W117>0,251071205026849</W117>
+          <W118>0,287583139174291</W118>
+          <W119>0,378549775558485</W119>
+          <W120>0,267168976707987</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer12" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <W11>0,208722426369306</W11>
+          <W12>0,341162546181467</W12>
+          <W13>0,28499282497428</W13>
+          <W14>0,4067786515941</W14>
+          <W15>0,494129228331764</W15>
+          <W16>0,258823860386079</W16>
+          <W17>0,475940553032568</W17>
+          <W18>0,301874347499353</W18>
+          <W19>0,447165683374223</W19>
+          <W110>0,454721516549448</W110>
+          <W111>0,218192951537278</W111>
+          <W112>0,445137539877442</W112>
+          <W113>0,28322781273091</W113>
+          <W114>0,454414670267801</W114>
+          <W115>0,314485136452189</W115>
+          <W116>0,278794853131439</W116>
+          <W117>0,342544197342449</W117>
+          <W118>0,314880294132783</W118>
+          <W119>0,238533379223022</W119>
+          <W120>0,307975587819619</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer13" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <W11>0,475590194361437</W11>
+          <W12>0,439569820913907</W12>
+          <W13>0,290481251760068</W13>
+          <W14>0,37287784820282</W14>
+          <W15>0,468088802009521</W15>
+          <W16>0,477925350069777</W16>
+          <W17>0,209508330699381</W17>
+          <W18>0,34880273083473</W18>
+          <W19>0,291720283126109</W19>
+          <W110>0,353565449376802</W110>
+          <W111>0,204417880627974</W111>
+          <W112>0,35452925489242</W112>
+          <W113>0,194243960405091</W113>
+          <W114>0,289992233746893</W114>
+          <W115>0,210876723213373</W115>
+          <W116>0,446430245965163</W116>
+          <W117>0,238287429708561</W117>
+          <W118>0,211821768106224</W118>
+          <W119>0,230858289810675</W119>
+          <W120>0,365419551365987</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer14" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <W11>0,440177360597456</W11>
+          <W12>0,255481374214852</W12>
+          <W13>0,268925805873745</W13>
+          <W14>0,233610515479183</W14>
+          <W15>0,478603340451553</W15>
+          <W16>0,270334932689294</W16>
+          <W17>0,3000224655324</W17>
+          <W18>0,4009121662393</W18>
+          <W19>0,170523444538221</W19>
+          <W110>0,177060268795356</W110>
+          <W111>0,386551400933665</W111>
+          <W112>0,493178712124331</W112>
+          <W113>0,374677962078737</W113>
+          <W114>0,444296008099857</W114>
+          <W115>0,190771151022754</W115>
+          <W116>0,149322808111529</W116>
+          <W117>0,215871173928837</W117>
+          <W118>0,356021091547321</W118>
+          <W119>0,291026297298485</W119>
+          <W120>0,250469345659979</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer15" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <W11>0,377940458871243</W11>
+          <W12>0,414443184230762</W12>
+          <W13>0,498095548873873</W13>
+          <W14>0,470918128224887</W14>
+          <W15>0,295568553100338</W15>
+          <W16>0,283500299065194</W16>
+          <W17>0,388137970335302</W17>
+          <W18>0,443071278645645</W18>
+          <W19>0,297343823224038</W19>
+          <W110>0,447105046563029</W110>
+          <W111>0,344422614354574</W111>
+          <W112>0,208903171883365</W112>
+          <W113>0,24736948051557</W113>
+          <W114>0,333138218482521</W114>
+          <W115>0,517312939090774</W115>
+          <W116>0,341630074925856</W116>
+          <W117>0,234487086533993</W117>
+          <W118>0,394641526191921</W118>
+          <W119>0,275585506873987</W119>
+          <W120>0,196862426387078</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer16" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <W11>0,204720285525596</W11>
+          <W12>0,391448894470717</W12>
+          <W13>0,416064581875956</W13>
+          <W14>0,456848014268383</W14>
+          <W15>0,289246660951996</W15>
+          <W16>0,412582273040334</W16>
+          <W17>0,382487832820509</W17>
+          <W18>0,263154945212677</W18>
+          <W19>0,483321175188975</W19>
+          <W110>0,360549507123945</W110>
+          <W111>0,447792360967361</W111>
+          <W112>0,4335335298429</W112>
+          <W113>0,249593219536795</W113>
+          <W114>0,456068890865075</W114>
+          <W115>0,360760490057225</W115>
+          <W116>0,311065467519835</W116>
+          <W117>0,323438374636499</W117>
+          <W118>0,369807380529399</W118>
+          <W119>0,388808402458228</W119>
+          <W120>0,233780155058313</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer17" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <W11>0,443879930483489</W11>
+          <W12>0,421472003532263</W12>
+          <W13>0,163641993598362</W13>
+          <W14>0,195346435815373</W14>
+          <W15>0,258179955714409</W15>
+          <W16>0,422745670485691</W16>
+          <W17>0,376318513433258</W17>
+          <W18>0,28021745545999</W18>
+          <W19>0,238593102109125</W19>
+          <W110>0,291891294234309</W110>
+          <W111>0,274136466261592</W111>
+          <W112>0,343891413232039</W112>
+          <W113>0,344122724816036</W113>
+          <W114>0,299576610967774</W114>
+          <W115>0,45754332131957</W115>
+          <W116>0,383665018753525</W116>
+          <W117>0,411691751166813</W117>
+          <W118>0,431126721382246</W118>
+          <W119>0,497725421281744</W119>
+          <W120>0,361788057139286</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer18" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <W11>0,346764045855033</W11>
+          <W12>0,254787626905621</W12>
+          <W13>0,408767593890936</W13>
+          <W14>0,426217550465593</W14>
+          <W15>0,282306090593535</W15>
+          <W16>0,226533088425772</W16>
+          <W17>0,211055259772489</W17>
+          <W18>0,481846444309549</W18>
+          <W19>0,297105896603749</W19>
+          <W110>0,503143871694028</W110>
+          <W111>0,298576085810348</W111>
+          <W112>0,339812602864453</W112>
+          <W113>0,347285973894701</W113>
+          <W114>0,434341835537052</W114>
+          <W115>0,232189494639894</W115>
+          <W116>0,371821093975472</W116>
+          <W117>0,382226631984348</W117>
+          <W118>0,350242237135671</W118>
+          <W119>0,301125798430659</W119>
+          <W120>0,324675740070127</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer19" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <W11>0,46242150281459</W11>
+          <W12>0,388372016421697</W12>
+          <W13>0,352056457477634</W13>
+          <W14>0,281635117991663</W14>
+          <W15>0,342613070350878</W15>
+          <W16>0,518540395939673</W16>
+          <W17>0,377421393544203</W17>
+          <W18>0,239801212932276</W18>
+          <W19>0,406141624970596</W19>
+          <W110>0,373018046088913</W110>
+          <W111>0,227347788929116</W111>
+          <W112>0,434856673359972</W112>
+          <W113>0,45086725014871</W113>
+          <W114>0,496279129251529</W114>
+          <W115>0,323282902926226</W115>
+          <W116>0,398351156176867</W116>
+          <W117>0,305553060018214</W117>
+          <W118>0,460975436372223</W118>
+          <W119>0,346865538064444</W119>
+          <W120>0,426340233721901</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer110" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <W11>0,466035452672003</W11>
+          <W12>0,386926721924433</W12>
+          <W13>0,208858535832986</W13>
+          <W14>0,259547968513589</W14>
+          <W15>0,429362692699605</W15>
+          <W16>0,251130747743914</W16>
+          <W17>0,345047702244821</W17>
+          <W18>0,311610249058001</W18>
+          <W19>0,462859656420629</W19>
+          <W110>0,197940658416355</W110>
+          <W111>0,267307194500066</W111>
+          <W112>0,269308697449301</W112>
+          <W113>0,435426217655842</W113>
+          <W114>0,408245302872237</W114>
+          <W115>0,232458156836916</W115>
+          <W116>0,201927591751007</W116>
+          <W117>0,213649463491333</W117>
+          <W118>0,405567031749509</W118>
+          <W119>0,488782929176566</W119>
+          <W120>0,224088963674612</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer111" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <W11>0,181557806780386</W11>
+          <W12>0,36343922793406</W12>
+          <W13>0,546395539695683</W13>
+          <W14>0,455338785334879</W14>
+          <W15>0,203533853265245</W15>
+          <W16>0,369951604396858</W16>
+          <W17>0,370551528432879</W17>
+          <W18>0,2605558274531</W18>
+          <W19>0,547797447450279</W19>
+          <W110>0,50687854492727</W110>
+          <W111>0,417319628596853</W111>
+          <W112>0,270309673266075</W112>
+          <W113>0,140887273998623</W113>
+          <W114>0,374089157415544</W114>
+          <W115>0,377503939568941</W115>
+          <W116>0,367917731090401</W116>
+          <W117>0,354071915278591</W117>
+          <W118>0,216504962773576</W118>
+          <W119>0,376413723502339</W119>
+          <W120>0,330875776341873</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer112" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <W11>0,231280960214562</W11>
+          <W12>0,494295886220856</W12>
+          <W13>0,414920986679407</W13>
+          <W14>0,310114317694221</W14>
+          <W15>0,252321019132042</W15>
+          <W16>0,497734434863502</W16>
+          <W17>0,268713816893426</W17>
+          <W18>0,354136911557944</W18>
+          <W19>0,474010751818632</W19>
+          <W110>0,329919212128089</W110>
+          <W111>0,368313423665747</W111>
+          <W112>0,487386931351757</W112>
+          <W113>0,259384342719079</W113>
+          <W114>0,317533765456136</W114>
+          <W115>0,271399814900022</W115>
+          <W116>0,455128266681159</W116>
+          <W117>0,436493703489994</W117>
+          <W118>0,272930767313568</W118>
+          <W119>0,265410036155379</W119>
+          <W120>0,364072604385606</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer113" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+          <W11>0,424101043825912</W11>
+          <W12>0,463136587531649</W12>
+          <W13>0,302138618423555</W13>
+          <W14>0,369103597414677</W14>
+          <W15>0,287009276642193</W15>
+          <W16>0,504619287804818</W16>
+          <W17>0,297247407115515</W17>
+          <W18>0,190703050389609</W18>
+          <W19>0,290409129205144</W19>
+          <W110>0,313925286552477</W110>
+          <W111>0,458630032387242</W111>
+          <W112>0,34295090676281</W112>
+          <W113>0,271902975281813</W113>
+          <W114>0,457668447406526</W114>
+          <W115>0,332026326950565</W115>
+          <W116>0,378834951143364</W116>
+          <W117>0,377893836602968</W117>
+          <W118>0,293240774368467</W118>
+          <W119>0,418157050686014</W119>
+          <W120>0,251839313558673</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer114" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+          <W11>0,239582457179227</W11>
+          <W12>0,420932370202868</W12>
+          <W13>0,361810763298564</W13>
+          <W14>0,529779639030061</W14>
+          <W15>0,276504366701647</W15>
+          <W16>0,459769012757569</W16>
+          <W17>0,271615887831225</W17>
+          <W18>0,488963557453896</W18>
+          <W19>0,425825484014175</W19>
+          <W110>0,322334642864429</W110>
+          <W111>0,459105197306738</W111>
+          <W112>0,210416742812358</W112>
+          <W113>0,344181967726232</W113>
+          <W114>0,220494291696052</W114>
+          <W115>0,368377954249287</W115>
+          <W116>0,518958725972671</W116>
+          <W117>0,281867559880104</W117>
+          <W118>0,351948255866956</W118>
+          <W119>0,404725070354996</W119>
+          <W120>0,336603993405718</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer115" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+          <W11>0,42183225044275</W11>
+          <W12>0,385931909788431</W12>
+          <W13>0,232114655861667</W13>
+          <W14>0,440565724672391</W14>
+          <W15>0,426592007039867</W15>
+          <W16>0,492272962603737</W16>
+          <W17>0,270393203037098</W17>
+          <W18>0,368693990179389</W18>
+          <W19>0,344749923610006</W19>
+          <W110>0,290451635794807</W110>
+          <W111>0,238682038000821</W111>
+          <W112>0,421244916557327</W112>
+          <W113>0,441077758853502</W113>
+          <W114>0,381206163857596</W114>
+          <W115>0,226922468957382</W115>
+          <W116>0,312830413469121</W116>
+          <W117>0,380005488158496</W117>
+          <W118>0,215692745863498</W118>
+          <W119>0,22798723348603</W119>
+          <W120>0,202759508756119</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer116" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+          <W11>0,507522252939079</W11>
+          <W12>0,436444224225038</W12>
+          <W13>0,315876336229796</W13>
+          <W14>0,381378722852322</W14>
+          <W15>0,336447794399887</W15>
+          <W16>0,417607656195268</W16>
+          <W17>0,245785651076098</W17>
+          <W18>0,437278580240198</W18>
+          <W19>0,180038952009386</W19>
+          <W110>0,201759283926998</W110>
+          <W111>0,280740457981831</W111>
+          <W112>0,454492496769691</W112>
+          <W113>0,405706088649526</W113>
+          <W114>0,484773418855455</W114>
+          <W115>0,295264809834363</W115>
+          <W116>0,318374696141077</W116>
+          <W117>0,348989414843856</W117>
+          <W118>0,406219900978945</W118>
+          <W119>0,386092680868183</W119>
+          <W120>0,315680028553704</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer117" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+          <W11>0,304409508117216</W11>
+          <W12>0,484812595093542</W12>
+          <W13>0,269840152903792</W13>
+          <W14>0,246619735519294</W14>
+          <W15>0,349353689203637</W15>
+          <W16>0,212763839246339</W16>
+          <W17>0,256816081340076</W17>
+          <W18>0,359964325516872</W18>
+          <W19>0,362096039008268</W19>
+          <W110>0,474343354407236</W110>
+          <W111>0,325125045714176</W111>
+          <W112>0,294202196866004</W112>
+          <W113>0,348993438475274</W113>
+          <W114>0,448839728016987</W114>
+          <W115>0,327389753085916</W115>
+          <W116>0,476571604818464</W116>
+          <W117>0,337300081009854</W117>
+          <W118>0,353885294447134</W118>
+          <W119>0,354533266560707</W119>
+          <W120>0,457669476973769</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer118" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+          <W11>0,433794196921131</W11>
+          <W12>0,282475748996734</W12>
+          <W13>0,244532999415259</W13>
+          <W14>0,452397539363103</W14>
+          <W15>0,225160345097714</W15>
+          <W16>0,377864111221021</W16>
+          <W17>0,357783979401782</W17>
+          <W18>0,481125851159387</W18>
+          <W19>0,274925662153809</W19>
+          <W110>0,302850858255768</W110>
+          <W111>0,275136607787697</W111>
+          <W112>0,33865692431673</W112>
+          <W113>0,500149993503163</W113>
+          <W114>0,460946841846344</W114>
+          <W115>0,288880221837876</W115>
+          <W116>0,422437987691327</W116>
+          <W117>0,489018121011802</W117>
+          <W118>0,231982094905714</W118>
+          <W119>0,360511535917159</W119>
+          <W120>0,431679558206506</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer119" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+          <W11>0,33462834404729</W11>
+          <W12>0,37802010126403</W12>
+          <W13>0,368717132227434</W13>
+          <W14>0,307060247584573</W14>
+          <W15>0,393560359162922</W15>
+          <W16>0,195191560352589</W16>
+          <W17>0,264658497047965</W17>
+          <W18>0,304752067770946</W18>
+          <W19>0,521823961193686</W19>
+          <W110>0,478594653910517</W110>
+          <W111>0,290010936642662</W111>
+          <W112>0,192349482026865</W112>
+          <W113>0,251090564602196</W113>
+          <W114>0,416979176641956</W114>
+          <W115>0,441104881923953</W115>
+          <W116>0,318190391036729</W116>
+          <W117>0,246534186525497</W117>
+          <W118>0,182965750065674</W118>
+          <W119>0,159874616604862</W119>
+          <W120>0,257067145184938</W120>
+        </Layer1>
+        <Layer1 diffgr:id="Layer120" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+          <W11>0,236242093973934</W11>
+          <W12>0,485883102158068</W12>
+          <W13>0,495803515932586</W13>
+          <W14>0,329779021562526</W14>
+          <W15>0,483139666948666</W15>
+          <W16>0,244324330374427</W16>
+          <W17>0,463101440480857</W17>
+          <W18>0,238336265052625</W18>
+          <W19>0,277477953623671</W19>
+          <W110>0,470599786049855</W110>
+          <W111>0,31299530376414</W111>
+          <W112>0,209641575378613</W112>
+          <W113>0,392949954540022</W113>
+          <W114>0,403394309279046</W114>
+          <W115>0,295410567552664</W115>
+          <W116>0,277881619470545</W116>
+          <W117>0,35468349642434</W117>
+          <W118>0,393317189988456</W118>
+          <W119>0,302705313484732</W119>
+          <W120>0,229466443907741</W120>
+        </Layer1>
+        <Layer2 diffgr:id="Layer21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <W21>0,263183711591395</W21>
+          <W22>-0,0413731279658211</W22>
+          <W23>-0,0346699315855747</W23>
+          <W24>0,303163459808774</W24>
+          <W25>-0,18398920324017</W25>
+          <W26>-0,0459753707881489</W26>
+          <W27>0,218658569545488</W27>
+          <W28>-0,0988190845736696</W28>
+          <W29>0,170116472693779</W29>
+          <W210>0,170021423283746</W210>
+          <W211>-0,324723029687985</W211>
+          <W212>-0,043516723011257</W212>
+          <W213>0,114856687224808</W213>
+          <W214>-0,196564521155811</W214>
+          <W215>0,0634896941481235</W215>
+          <W216>0,159814468137143</W216>
+          <W217>-0,143228203430428</W217>
+          <W218>0,129171626811179</W218>
+          <W219>-0,269986087292194</W219>
+          <W220>-0,0981017470320112</W220>
+        </Layer2>
+      </NewDataSet>
+    </diffgr:diffgram>
+  </Weights>
+  <Biases>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="LayerBias1">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Bias11" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias12" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias13" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias14" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias15" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias16" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias17" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias18" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias19" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias110" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias111" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias112" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias113" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias114" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias115" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias116" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias117" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias118" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias119" type="xs:string" minOccurs="0" />
+                  <xs:element name="Bias120" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="LayerBias2">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Bias21" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <NewDataSet>
+        <LayerBias1 diffgr:id="LayerBias11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Bias11>0,319417950333149</Bias11>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias12" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Bias12>0,396489595372529</Bias12>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias13" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Bias13>0,29304630383626</Bias13>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias14" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Bias14>0,369961703347242</Bias14>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias15" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Bias15>0,209468618984159</Bias15>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias16" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Bias16>0,214943466413772</Bias16>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias17" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Bias17>0,315203363349881</Bias17>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias18" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Bias18>0,317951023498752</Bias18>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias19" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Bias19>0,272420165767729</Bias19>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias110" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Bias110>0,256464006392467</Bias110>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias111" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Bias111>0,338610690291457</Bias111>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias112" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <Bias112>0,393455507482956</Bias112>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias113" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+          <Bias113>0,297900333068934</Bias113>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias114" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+          <Bias114>0,459849446033924</Bias114>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias115" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+          <Bias115>0,401889094973648</Bias115>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias116" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+          <Bias116>0,294798844362196</Bias116>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias117" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+          <Bias117>0,344338338849698</Bias117>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias118" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+          <Bias118>0,291629888437673</Bias118>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias119" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+          <Bias119>0,401229385813573</Bias119>
+        </LayerBias1>
+        <LayerBias1 diffgr:id="LayerBias120" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+          <Bias120>0,252664993261839</Bias120>
+        </LayerBias1>
+        <LayerBias2 diffgr:id="LayerBias21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Bias21>-0,101317309129542</Bias21>
+        </LayerBias2>
+      </NewDataSet>
+    </diffgr:diffgram>
+  </Biases>
+  <NetType>Многослойный персептрон</NetType>
+  <NumLayers>2</NumLayers>
+  <NumIn>20</NumIn>
+  <NumNeurons>
+    <int>20</int>
+    <int>1</int>
+  </NumNeurons>
+  <ActFuncType>
+    <string>Сигмоидальная</string>
+    <string>Линейная</string>
+  </ActFuncType>
+  <SigmoidA>
+    <double>1</double>
+    <double>0</double>
+  </SigmoidA>
+  <TanA>
+    <double>0</double>
+    <double>0</double>
+  </TanA>
+  <TanB>
+    <double>0</double>
+    <double>0</double>
+  </TanB>
+  <LeftA>
+    <double>0.2</double>
+    <double>0.2</double>
+  </LeftA>
+  <RightB>
+    <double>0.5</double>
+    <double>0.5</double>
+  </RightB>
+  <LearningRate>0.01</LearningRate>
+  <Epoch>499</Epoch>
+  <Accuracy>0.01</Accuracy>
+</AppSettings>
